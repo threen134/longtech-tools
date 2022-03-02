@@ -16,7 +16,9 @@ Usage of ./longtech-tools:
 ## 用法
 
 ```
-sparks-MacBook-Pro:longtech-tools spark$ go run ./ -d 3 -p ~/workspace -m 2
+$wget https://github.com/threen134/longtech-tools/releases/download/v/longtech-tools
+$chmod +x ./longtech-tools
+$./longtech-tools -d 3 -p ~/workspace -m 2
 输出第1级最大2的目录列表
 /Users/spark/workspace/restClient, 832
 /Users/spark/workspace/dns-ui, 864
