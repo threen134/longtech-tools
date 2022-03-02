@@ -13,7 +13,7 @@ Usage of ./longtech-tools:
         目录路径, 默认为当前路径 (default "./")
 ```
 
-## 用法
+## linux 用法
 
 ```
 $wget https://github.com/threen134/longtech-tools/releases/download/v/longtech-tools
