@@ -16,8 +16,11 @@ Usage of ./longtech-tools:
 ## linux 用法
 
 ```
+# 下载执行文件
 $wget https://github.com/threen134/longtech-tools/releases/download/v/longtech-tools
+# 添加权限
 $chmod +x ./longtech-tools
+# 使用
 $./longtech-tools -d 3 -p ~/workspace -m 2
 输出第1级最大2的目录列表
 /Users/spark/workspace/restClient, 832
